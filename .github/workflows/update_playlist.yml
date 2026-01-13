@@ -22,7 +22,7 @@ jobs:
         # --- CẤU HÌNH ---
         SOURCE_URL="https://raw.githubusercontent.com/ntd249/ntdiptv/main/fptudp"
         OUTPUT_FILE="IPTV/fpt_udpxy.m3u8"
-        UDPXY_PREFIX="http://172.27.1.37:4022/udp/"
+        UDPXY_PREFIX="http://172.27.1.39:4022/udp/"
 
         # --- XỬ LÝ ---
         echo "Đang tải và xử lý..."
