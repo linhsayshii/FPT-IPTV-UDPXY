@@ -1,8 +1,6 @@
 name: Update FPT Udpxy Playlist
 
 on:
-  schedule:
-    - cron: '0 21 * * *'
   workflow_dispatch:
 
 permissions:
